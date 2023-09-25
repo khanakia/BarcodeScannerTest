@@ -1519,6 +1519,11 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@pushpendersingh/react-native-scanner@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@pushpendersingh/react-native-scanner/-/react-native-scanner-1.0.2.tgz#f97b689b8d7155fdf05b8f00ed9531f559ee270d"
+  integrity sha512-/i30pqbr0I0Ew377on7vSbZSzsgSrFcbhLiqhP+ibXbdMBjk+1ax70lm9uAFRAkFuc1TJkWjYma5scaUXAYBzw==
+
 "@react-native-community/cli-clean@11.3.7":
   version "11.3.7"
   resolved "https://registry.yarnpkg.com/@react-native-community/cli-clean/-/cli-clean-11.3.7.tgz#cb4c2f225f78593412c2d191b55b8570f409a48f"
@@ -5454,6 +5459,11 @@ react-is@^17.0.1:
   version "17.0.2"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
+
+react-native-permissions@^3.9.2:
+  version "3.9.2"
+  resolved "https://registry.yarnpkg.com/react-native-permissions/-/react-native-permissions-3.9.2.tgz#729ee7fe9ca437ee8e87f1ecec59acfe89bbb840"
+  integrity sha512-mBGoRDKi4twYH+UsPomPdi0dLpV6dGLmKzLpIgB5cLK/dzfM8Sr02Kch1xghVwT13ZkyCyd8DpcL4HgBJ4GQQg==
 
 react-native@0.72.5:
   version "0.72.5"
